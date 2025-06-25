@@ -1,54 +1,67 @@
-<h2 align="left">¡Qué onda! 👋 Soy Salvador Vera y soy un desarrollador full-stack, organista catedralicio y creador de reglas locas con SINDRA, desde México 🇲🇽</h2>
+<h1 align="center">¡Qué onda! Soy Salvador 👊</h1>
+<h3 align="center">Analista de Datos | Fullstack Developer | Inventor de fórmulas locas que sí jalan 🧠</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=0%25+documentación%2C+100%25+fe;Si+funciona%2C+no+lo+toques" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Un poco sobre mí
+
+- 🧮 Soy **analista de datos**, pero no de los que solo hacen gráficas. Me meto hasta la cocina: SQL, lógica de negocio, fórmulas custom y hasta los bugs más tercos.
+- 🔧 También le entro duro al desarrollo fullstack, desde el backend con Flask y Pandas hasta que el frontend se vea decente (o por lo menos funcional 😅).
+- 🧬 Estoy creando **SINDRA**, un lenguaje propio para que los sistemas piensen solitos (sí, medio Skynet el pedo, pero buena onda).
+- 📊 Me clavo en sacarle jugo a los datos, ya sea con Power BI, reportes automáticos o dashboards que no den flojera abrir.
+- 🧠 En resumen: si hay lógica en juego, ahí ando metido.
+
+---
+
+### ⚒️ Con estas herramientas me pongo creativo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvadorveraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salvadorveraj&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Perrito programador" />
+### 📊 Lo que me mueve
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</div>
+### 🚀 Fun facts
 
-###
+- 💡 Si algo se puede automatizar, ya estoy viendo cómo.
+- 🐍 Python + Pandas = mi zona zen.
+- 📱 Me gusta Flutter, aunque a veces me la hace de pedo.
+- 📈 Power BI me cae bien… mientras no crashee.
+- 🤯 Me apasiona entender la lógica de negocio. Si no te hace sentido lo que haces, ¿pa’ qué?
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 📬 ¿Me quieres buscar?
 
-###
+- 📧 **salvador.veraj@icloud.com**
 
-> 🧠 Inventor de Sindra, el sistema de reglas que ni yo entiendo a veces.  
-> ⛪ Organista de catedral por las noches, programador por las mañanas.  
-> 🔥 A veces full-stack, a veces full-stress. Siempre con estilo.
+---
+
+### 💬 Mi lema personal
+
+> “No soy multitask, nomás pienso rápido.”
+
+---
+
+**Gracias por pasar, raza. Si ya llegaste hasta abajo, échame un follow o una chelita 🍻**
