@@ -52,16 +52,14 @@
 
 ---
 
-### 📬 ¿Me quieres buscar?
-
-- 📧 **salvador.veraj@icloud.com**
-
----
-
 ### 💬 Mi lema personal
 
 > “No soy multitask, nomás pienso rápido.”
 
 ---
 
-**Gracias por pasar, raza. Si ya llegaste hasta abajo, échame un follow o una chelita 🍻**
+### 🤝 ¿Trabajamos juntos?
+
+Si te laten mis proyectos y quieres colaborar o invitarme un café, mándame un correo o échame un issue.
+
+📧 **salvador.veraj@icloud.com**
